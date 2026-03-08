@@ -1,0 +1,25 @@
+# Polymarket Pro — Dependencies
+# Install: pip install -r requirements.txt
+
+# Polymarket CLOB client
+py-clob-client>=0.14.0
+
+# WebSocket
+websockets>=13.0
+
+# Dashboard
+streamlit>=1.30.0
+plotly>=5.18.0
+
+# Data
+pandas>=2.0.0
+numpy>=1.24.0
+
+# HTTP client (async)
+aiohttp>=3.9.0
+
+# Configuration
+python-dotenv>=1.0.0
+
+# Structured logging
+structlog>=24.1.0
